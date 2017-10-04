@@ -1,2 +1,2 @@
-Creating branch is quick and simple.--dev
+Creating branch is quick and simple.--dev --bug
 
